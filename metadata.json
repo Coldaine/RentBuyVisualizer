@@ -1,0 +1,5 @@
+{
+  "name": "RentVsInvest",
+  "description": "A financial comparison tool analyzing rental real estate against stocks and bonds, focusing on cash flow, leverage, and tax implications.",
+  "requestFramePermissions": []
+}
